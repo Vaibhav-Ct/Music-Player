@@ -32,7 +32,7 @@ Welcome to the **Music Player System**! This is a feature-rich console-based app
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/vaibhavpawar/music-player-system.git
-   cd music-player-system
+   cd MusicPlayer
    ```
 
 2. **Compile the Code:**
