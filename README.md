@@ -57,7 +57,7 @@ Welcome to the **Music Player System**! This is a feature-rich console-based app
 ├── Playlist.java               # Handles playlist operations
 ├── Song.java                   # Represents a song object
 ├── Data.java                   # Real Data inserted for Testing
-├── ExceptionHandeling.java    # Handelling Exceptions
+├── ExceptionHandeling.java     # Handelling Exceptions
 ├── README.md                   # Project documentation
 ```
 
