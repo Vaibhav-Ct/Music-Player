@@ -53,10 +53,12 @@ Welcome to the **Music Player System**! This is a feature-rich console-based app
 ## 🛠️ Project Structure
 
 ```
-├── Main.java           # Main entry point for the application
-├── Playlist.java       # Handles playlist operations
-├── Song.java           # Represents a song object
-├── README.md           # Project documentation
+├── Main.java                   # Main entry point for the application
+├── Playlist.java               # Handles playlist operations
+├── Song.java                   # Represents a song object
+├── Data.java                   # Real Data inserted for Testing
+├── ExceptionHandelling.java    # Handelling Exceptions
+├── README.md                   # Project documentation
 ```
 
 ---
