@@ -103,22 +103,15 @@ Enter your choice:
 ## 👨‍💻 Author
 
 - **Vaibhav Pawar**  
-  📧 [Email Me](mailto:vaibhav@example.com)  
-  💼 [LinkedIn](https://www.linkedin.com/in/vaibhav-pawar)  
-  🐙 [GitHub](https://github.com/vaibhavpawar)
+  📧 [Email Me](vaibhav.pawar@clear.in)  
+  💼 [LinkedIn](https://www.linkedin.com/in/vaibhav-pawar-6109a0220/)  
+  🐙 [GitHub](https://github.com/Vaibhav-Ct)
 
 ---
 
 ## 🛡️ License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-## 🌟 Acknowledgments
-
-- Java Documentation: [Oracle Docs](https://docs.oracle.com/en/java/)
-- Special thanks to the open-source community for their amazing support!
 
 ---
 
